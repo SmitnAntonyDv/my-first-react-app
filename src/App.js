@@ -6,21 +6,20 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h2>Week1 down and im ready to rock week2's socks off !! LETS GO CLASS 40 !</h2>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+
+        <h2>Really looking forward to what amazing skills I will learn in week 2 !!!</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
       </header>
     </div>
   );
-}
+} 
 
 export default App;
